@@ -1,5 +1,12 @@
 # ML Mahem Submission
 ##### by Keshav Mishra (112121025)
+## Problem Statement:
+Given the dataset containing hourly average ambient variables 
+(Temperature, Ambient Pressure, Relative Humidity, and Exhaust 
+Vacuum), our task is to predict the net hourly electrical energy 
+output (PE) of a Combined Cycle Power Plant (CCPP). This 
+prediction can assist in optimizing the plant's operation, 
+scheduling maintenance, and improving energy efficiency.
 ## Step 1:
 Loaded Important Libraries to use for modelling and data cleaning.
 ## Step 2:
